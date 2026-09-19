@@ -1,0 +1,37 @@
+sample,geo_accession,donor,microenvironment,treatment
+P02con,GSM9823228,P02,Microenvironment_1,Control
+P02fu,GSM9823229,P02,Microenvironment_1,5-FU
+P02ox,GSM9823230,P02,Microenvironment_1,Oxaliplatin
+P03con,GSM9823231,P03,Microenvironment_1,Control
+P03fu,GSM9823232,P03,Microenvironment_1,5-FU
+P03ox,GSM9823233,P03,Microenvironment_1,Oxaliplatin
+P07con,GSM9823234,P07,Microenvironment_1,Control
+P07fu,GSM9823235,P07,Microenvironment_1,5-FU
+P07ox,GSM9823236,P07,Microenvironment_1,Oxaliplatin
+P15con,GSM9823237,P15,Microenvironment_1,Control
+P15fu,GSM9823238,P15,Microenvironment_1,5-FU
+P15ox,GSM9823239,P15,Microenvironment_1,Oxaliplatin
+P02_Ccon,GSM9823240,P02,Microenvironment_2,Control
+P02_Cfu,GSM9823241,P02,Microenvironment_2,5-FU
+P02_Cox,GSM9823242,P02,Microenvironment_2,Oxaliplatin
+P03_Ccon,GSM9823243,P03,Microenvironment_2,Control
+P03_Cfu,GSM9823244,P03,Microenvironment_2,5-FU
+P03_Cox,GSM9823245,P03,Microenvironment_2,Oxaliplatin
+P07_Ccon,GSM9823246,P07,Microenvironment_2,Control
+P07_Cfu,GSM9823247,P07,Microenvironment_2,5-FU
+P07_Cox,GSM9823248,P07,Microenvironment_2,Oxaliplatin
+P15_Ccon,GSM9823249,P15,Microenvironment_2,Control
+P15_Cfu,GSM9823250,P15,Microenvironment_2,5-FU
+P15_Cox,GSM9823251,P15,Microenvironment_2,Oxaliplatin
+P02_CPc,GSM9823252,P02,Microenvironment_3,Control
+P02_CPp1,GSM9823253,P02,Microenvironment_3,Immunotherapy
+P02_CPs1,GSM9823254,P02,Microenvironment_3,Chemotherapy + Immunotherapy
+P03_CPc,GSM9823255,P03,Microenvironment_3,Control
+P03_CPp1,GSM9823256,P03,Microenvironment_3,Immunotherapy
+P03_CPs1,GSM9823257,P03,Microenvironment_3,Chemotherapy + Immunotherapy
+P07_CPc,GSM9823258,P07,Microenvironment_3,Control
+P07_CPp1,GSM9823259,P07,Microenvironment_3,Immunotherapy
+P07_CPs1,GSM9823260,P07,Microenvironment_3,Chemotherapy + Immunotherapy
+P15_CPc,GSM9823261,P15,Microenvironment_3,Control
+P15_CPp1,GSM9823262,P15,Microenvironment_3,Immunotherapy
+P15_CPs1,GSM9823263,P15,Microenvironment_3,Chemotherapy + Immunotherapy

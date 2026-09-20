@@ -1,0 +1,37 @@
+donor,microenvironment,treatment,sample_count
+P02,Microenvironment_1,5-FU,1
+P02,Microenvironment_1,Control,1
+P02,Microenvironment_1,Oxaliplatin,1
+P02,Microenvironment_2,5-FU,1
+P02,Microenvironment_2,Control,1
+P02,Microenvironment_2,Oxaliplatin,1
+P02,Microenvironment_3,Chemotherapy + Immunotherapy,1
+P02,Microenvironment_3,Control,1
+P02,Microenvironment_3,Immunotherapy,1
+P03,Microenvironment_1,5-FU,1
+P03,Microenvironment_1,Control,1
+P03,Microenvironment_1,Oxaliplatin,1
+P03,Microenvironment_2,5-FU,1
+P03,Microenvironment_2,Control,1
+P03,Microenvironment_2,Oxaliplatin,1
+P03,Microenvironment_3,Chemotherapy + Immunotherapy,1
+P03,Microenvironment_3,Control,1
+P03,Microenvironment_3,Immunotherapy,1
+P07,Microenvironment_1,5-FU,1
+P07,Microenvironment_1,Control,1
+P07,Microenvironment_1,Oxaliplatin,1
+P07,Microenvironment_2,5-FU,1
+P07,Microenvironment_2,Control,1
+P07,Microenvironment_2,Oxaliplatin,1
+P07,Microenvironment_3,Chemotherapy + Immunotherapy,1
+P07,Microenvironment_3,Control,1
+P07,Microenvironment_3,Immunotherapy,1
+P15,Microenvironment_1,5-FU,1
+P15,Microenvironment_1,Control,1
+P15,Microenvironment_1,Oxaliplatin,1
+P15,Microenvironment_2,5-FU,1
+P15,Microenvironment_2,Control,1
+P15,Microenvironment_2,Oxaliplatin,1
+P15,Microenvironment_3,Chemotherapy + Immunotherapy,1
+P15,Microenvironment_3,Control,1
+P15,Microenvironment_3,Immunotherapy,1

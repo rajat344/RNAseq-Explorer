@@ -1,0 +1,10 @@
+microenvironment,treatment,sample_count
+Microenvironment_1,5-FU,4
+Microenvironment_1,Control,4
+Microenvironment_1,Oxaliplatin,4
+Microenvironment_2,5-FU,4
+Microenvironment_2,Control,4
+Microenvironment_2,Oxaliplatin,4
+Microenvironment_3,Chemotherapy + Immunotherapy,4
+Microenvironment_3,Control,4
+Microenvironment_3,Immunotherapy,4

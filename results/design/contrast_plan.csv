@@ -1,0 +1,7 @@
+microenvironment,comparison,treatment,reference
+Microenvironment_1,5-FU vs Control,5-FU,Control
+Microenvironment_1,Oxaliplatin vs Control,Oxaliplatin,Control
+Microenvironment_2,5-FU vs Control,5-FU,Control
+Microenvironment_2,Oxaliplatin vs Control,Oxaliplatin,Control
+Microenvironment_3,Immunotherapy vs Control,Immunotherapy,Control
+Microenvironment_3,Chemotherapy + Immunotherapy vs Control,Chemotherapy + Immunotherapy,Control

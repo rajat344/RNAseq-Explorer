@@ -22,6 +22,27 @@ The dataset contains 36 human stromal RNA-seq samples across three experimental 
 6. Pathway analysis
 7. Interactive visualization
 
+
+### Quality Control
+
+Initial quality-control analysis was performed using Python and pandas.
+
+The dataset was assessed for:
+
+- library size variation
+- genes detected per sample
+- low-count gene prevalence
+- sample-level PCA
+- sample-to-sample expression correlation
+
+The dataset contains 36 samples and 58,735 genes.
+
+PCA showed that the experimental microenvironment accounts for a substantial proportion of expression variation, with PC1 explaining 50.42% and PC2 explaining 23.28% of the variance.
+
+Sample-level correlation analysis showed high overall similarity across the dataset, with a mean pairwise Pearson correlation of 0.949.
+
+QC outputs are stored in `results/qc/` and visualizations are stored in `figures/qc/`.
+
 ## Repository structure
 
 ```text

@@ -1,0 +1,37 @@
+sample,total_counts,detected_genes,geo_accession,donor,microenvironment,treatment
+P02con,14138244,23059,GSM9823228,P02,Microenvironment_1,Control
+P02fu,15547550,23626,GSM9823229,P02,Microenvironment_1,5-FU
+P02ox,12772689,22580,GSM9823230,P02,Microenvironment_1,Oxaliplatin
+P03con,15629735,21715,GSM9823231,P03,Microenvironment_1,Control
+P03fu,16418248,19352,GSM9823232,P03,Microenvironment_1,5-FU
+P03ox,18246043,20277,GSM9823233,P03,Microenvironment_1,Oxaliplatin
+P07con,17637572,20643,GSM9823234,P07,Microenvironment_1,Control
+P07fu,22113127,19803,GSM9823235,P07,Microenvironment_1,5-FU
+P07ox,18985998,18871,GSM9823236,P07,Microenvironment_1,Oxaliplatin
+P15con,18172465,22306,GSM9823237,P15,Microenvironment_1,Control
+P15fu,16489388,21443,GSM9823238,P15,Microenvironment_1,5-FU
+P15ox,15970516,23502,GSM9823239,P15,Microenvironment_1,Oxaliplatin
+P02_Ccon,16711570,21640,GSM9823240,P02,Microenvironment_2,Control
+P02_Cfu,18004512,16955,GSM9823241,P02,Microenvironment_2,5-FU
+P02_Cox,18765167,19893,GSM9823242,P02,Microenvironment_2,Oxaliplatin
+P03_Ccon,19086648,18576,GSM9823243,P03,Microenvironment_2,Control
+P03_Cfu,18965050,18645,GSM9823244,P03,Microenvironment_2,5-FU
+P03_Cox,13713136,16470,GSM9823245,P03,Microenvironment_2,Oxaliplatin
+P07_Ccon,21972145,20110,GSM9823246,P07,Microenvironment_2,Control
+P07_Cfu,20095029,18089,GSM9823247,P07,Microenvironment_2,5-FU
+P07_Cox,19571363,18821,GSM9823248,P07,Microenvironment_2,Oxaliplatin
+P15_Ccon,19765363,19564,GSM9823249,P15,Microenvironment_2,Control
+P15_Cfu,13774278,18941,GSM9823250,P15,Microenvironment_2,5-FU
+P15_Cox,19446209,19573,GSM9823251,P15,Microenvironment_2,Oxaliplatin
+P02_CPc,17854499,25244,GSM9823252,P02,Microenvironment_3,Control
+P02_CPp1,16416931,25386,GSM9823253,P02,Microenvironment_3,Immunotherapy
+P02_CPs1,18378992,24378,GSM9823254,P02,Microenvironment_3,Chemotherapy + Immunotherapy
+P03_CPc,17656857,25405,GSM9823255,P03,Microenvironment_3,Control
+P03_CPp1,19526326,26223,GSM9823256,P03,Microenvironment_3,Immunotherapy
+P03_CPs1,17957814,26078,GSM9823257,P03,Microenvironment_3,Chemotherapy + Immunotherapy
+P07_CPc,18221781,23979,GSM9823258,P07,Microenvironment_3,Control
+P07_CPp1,17574353,24317,GSM9823259,P07,Microenvironment_3,Immunotherapy
+P07_CPs1,17813610,23369,GSM9823260,P07,Microenvironment_3,Chemotherapy + Immunotherapy
+P15_CPc,18440758,24999,GSM9823261,P15,Microenvironment_3,Control
+P15_CPp1,17749096,24211,GSM9823262,P15,Microenvironment_3,Immunotherapy
+P15_CPs1,15348542,24967,GSM9823263,P15,Microenvironment_3,Chemotherapy + Immunotherapy

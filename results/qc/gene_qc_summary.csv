@@ -1,0 +1,5 @@
+,value
+total_genes,58735
+zero_count_genes,19829
+genes_detected_in_at_least_one_sample,38906
+genes_with_10_or_more_counts_in_at_least_two_samples,22375

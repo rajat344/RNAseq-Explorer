@@ -1,0 +1,7 @@
+"comparison","genes_tested","significant","upregulated","downregulated"
+"Microenvironment 1 - 5-FU vs Control",32480,870,380,490
+"Microenvironment 1 - Oxaliplatin vs Control",32480,440,195,245
+"Microenvironment 2 - 5-FU vs Control",29208,432,173,259
+"Microenvironment 2 - Oxaliplatin vs Control",29208,421,159,262
+"Microenvironment 3 - Immunotherapy vs Control",35914,154,81,73
+"Microenvironment 3 - Chemotherapy + Immunotherapy vs Control",35914,1292,730,562

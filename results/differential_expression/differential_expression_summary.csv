@@ -1,0 +1,7 @@
+"microenvironment","treatment","genes_tested","FDR_05"
+"Microenvironment_1","5-FU",58735,870
+"Microenvironment_1","Oxaliplatin",58735,440
+"Microenvironment_2","5-FU",58735,432
+"Microenvironment_2","Oxaliplatin",58735,421
+"Microenvironment_3","Immunotherapy",58735,154
+"Microenvironment_3","Chemotherapy + Immunotherapy",58735,1292

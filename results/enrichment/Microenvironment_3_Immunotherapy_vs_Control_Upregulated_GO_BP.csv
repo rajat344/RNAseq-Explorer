@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0002323","natural killer cell activation involved in immune response","2/12","18/16210",0.111111111111111,150.092592592593,17.2258280857022,7.63602792953234e-05,0.0324531187005124,0.0184068462722411,"IFNK/IL12B",2

@@ -1,0 +1,13 @@
+"comparison","direction","input_genes","mapped_genes","GO_terms","Reactome_terms"
+"Microenvironment_1_5_FU_vs_Control","Upregulated",283,283,3,0
+"Microenvironment_1_5_FU_vs_Control","Downregulated",358,358,47,2
+"Microenvironment_1_Oxaliplatin_vs_Control","Upregulated",109,109,0,1
+"Microenvironment_1_Oxaliplatin_vs_Control","Downregulated",152,152,0,0
+"Microenvironment_2_5_FU_vs_Control","Upregulated",104,104,0,0
+"Microenvironment_2_5_FU_vs_Control","Downregulated",130,130,0,0
+"Microenvironment_2_Oxaliplatin_vs_Control","Upregulated",90,90,12,0
+"Microenvironment_2_Oxaliplatin_vs_Control","Downregulated",126,126,0,0
+"Microenvironment_3_Immunotherapy_vs_Control","Upregulated",44,44,1,0
+"Microenvironment_3_Immunotherapy_vs_Control","Downregulated",34,34,0,5
+"Microenvironment_3_Chemotherapy_Immunotherapy_vs_Control","Upregulated",712,712,652,106
+"Microenvironment_3_Chemotherapy_Immunotherapy_vs_Control","Downregulated",540,540,154,43

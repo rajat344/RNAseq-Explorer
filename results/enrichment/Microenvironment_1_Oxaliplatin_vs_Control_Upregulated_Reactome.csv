@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"R-HSA-425407","SLC-mediated transmembrane transport","5/24","216/9744",0.0231481481481481,9.39814814814815,6.20195159851923,0.000153987293378452,0.0441943531996156,0.0418197070438321,"LCN15/SLC22A2/SLC8A2/SLC12A1/SLC14A2",5

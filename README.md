@@ -1,48 +1,49 @@
-
 # RNA-seq Explorer
 
-A reproducible downstream RNA-seq analysis workflow for identifying treatment-associated gene expression changes and biological pathways across different tumor microenvironment conditions.
+A reproducible downstream RNA-seq analysis workflow for identifying treatment-associated changes in gene expression and biological pathways across different tumor microenvironment conditions.
 
-The project combines Python-based quality control with R/DESeq2 differential expression, GO/Reactome enrichment analysis, publication-style visualizations, and an interactive Shiny application.
+The project combines Python-based quality control with R/DESeq2 differential expression analysis, Gene Ontology and Reactome enrichment, publication-style visualizations, and an interactive Shiny application.
 
-## Project Overview
+---
 
-This project analyzes publicly available human bulk RNA-seq data from GEO accession **GSE335921**.
+## Overview
 
-The dataset contains **36 human stromal RNA-seq samples** across multiple treatment groups and three experimental microenvironment conditions.
+RNA-seq experiments can produce thousands of genes whose expression changes across experimental conditions. The challenge is to move from a raw expression matrix to statistically supported gene-level changes and biologically interpretable pathways.
 
-The main objective is to determine how different treatments affect gene expression within each microenvironment and to identify biological processes and pathways associated with the observed changes.
-
-## Workflow
+This project implements a complete **downstream analysis workflow** for a public human bulk RNA-seq dataset:
 
 ```text
-Processed RNA-seq counts
+Processed count matrix
         |
         v
-Data preparation & validation
+Data validation
         |
         v
 Quality control
-  - Library size
-  - Genes detected
-  - Low-count assessment
-  - PCA
-  - Sample correlation
+        |
+        +--> Library size
+        +--> Genes detected
+        +--> Low-count assessment
+        +--> PCA
+        +--> Sample correlation
         |
         v
 Differential expression
-  - DESeq2
-  - Donor-aware design
-  - Treatment vs Control
+        |
+        +--> DESeq2
+        +--> Donor-aware experimental design
+        +--> Treatment vs Control
         |
         v
 Functional enrichment
-  - Gene Ontology
-  - Biological Process
+        |
+        +--> Gene Ontology
+        +--> Biological Process
         |
         v
 Pathway analysis
-  - Reactome
+        |
+        +--> Reactome
         |
         v
 Visualization
